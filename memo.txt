@@ -1,1 +1,4 @@
-안녕하세요. 동욱입니다.
+안녕하세요. 동욱.
+
+git status modified test
+
